@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-10-14T17:45:50.577877Z",
+      "created": "2021-10-18T18:27:44.178727Z",
       "format": null,
-      "last_modified": "2021-10-14T17:45:01.385296Z",
+      "last_modified": "2021-10-18T18:26:44.334665Z",
       "mimetype": "application/json",
       "name": "bar.vl.json",
       "path": "data/bar.vl.json",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2021-10-14T17:45:50.577877Z",
+      "created": "2021-10-18T18:27:44.178727Z",
       "format": null,
-      "last_modified": "2021-10-14T17:45:01.385296Z",
+      "last_modified": "2021-10-18T18:26:44.334665Z",
       "mimetype": null,
       "name": "Museums_in_DC.geojson",
       "path": "data/Museums_in_DC.geojson",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2021-10-14T17:45:50.577877Z",
+      "created": "2021-10-18T18:27:44.182727Z",
       "format": null,
-      "last_modified": "2021-10-14T17:45:01.385296Z",
+      "last_modified": "2021-10-18T18:26:44.334665Z",
       "mimetype": "text/csv",
       "name": "iris.csv",
       "path": "data/iris.csv",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2021-10-14T17:45:50.577877Z",
+      "created": "2021-10-18T18:27:44.178727Z",
       "format": null,
-      "last_modified": "2021-10-14T17:45:01.385296Z",
+      "last_modified": "2021-10-18T18:26:44.334665Z",
       "mimetype": null,
       "name": "fasta-example.fasta",
       "path": "data/fasta-example.fasta",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2021-10-14T17:45:50.577877Z",
+  "created": "2021-10-18T18:27:44.182727Z",
   "format": "json",
-  "last_modified": "2021-10-14T17:45:50.577877Z",
+  "last_modified": "2021-10-18T18:27:44.182727Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
